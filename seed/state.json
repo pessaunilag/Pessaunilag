@@ -1,0 +1,804 @@
+{
+ "v": 1,
+ "settings": {
+  "name": "Physical and Earth Sciences Students' Association",
+  "short": "PESSA",
+  "faculty": "Faculty of Physical and Earth Sciences",
+  "university": "University of Lagos",
+  "admin": "The Pharonia",
+  "session": "2026/2027",
+  "founded": "2025/2026",
+  "heroLine1": "PESSA speaks",
+  "heroLine2": "excellence.",
+  "heroSub": "The students' association of the Faculty of Physical and Earth Sciences, University of Lagos. One faculty, six departments, two sub-departments, one voice.",
+  "about": "PESSA is the students' association of the Faculty of Physical and Earth Sciences at the University of Lagos. It was founded in the 2025/2026 session to represent every student in the faculty and to run the programmes that shape student life: academics, sports, careers and social events.\n\nThe Pharonia is the second administration of PESSA, serving the 2026/2027 session. Our focus is to build systems that outlive us: a faculty that is united, fairly represented, and known for excellence in the classroom, on the field and in industry.",
+  "vision": "A united and inclusive PESSA that excels academically, professionally, in sports and in student life, bridging the gap between the classroom and industry.",
+  "mission": "To build effective systems and programmes, from academic mentorship and industry networking to sports and social life, that drive excellence for every student, while ensuring fair representation and inclusion for all.",
+  "logo": "seed:settings-logo-6025f4df6f1c.png",
+  "heroImage": "seed:settings-heroImage-c2e0aaa5da1e.jpg",
+  "email": "pessaunilag@gmail.com",
+  "instagram": "pessaunilag",
+  "linkedin": "https://www.linkedin.com/company/university-of-lagos-physical-and-earth-science-students-association-pessa/",
+  "linkedinName": "Physical and Earth Sciences Students' Association (PESSA)",
+  "x": "",
+  "tiktok": "",
+  "address": "Faculty of Physical and Earth Sciences, University of Lagos, Akoka, Lagos",
+  "contacts": "Omojuola Dayo | President | 09077398038\nVictor Irabor | General Secretary | 07086419386",
+  "waNumber": "07086419386",
+  "suggestionForm": "",
+  "alumniForm": "",
+  "nominationForm": "",
+  "contactForm": "",
+  "partnerDeck": "",
+  "waCommunity": "https://chat.whatsapp.com/BHTCxLZPdyzLmAoJqpUSke",
+  "deckStudents": "2,300+",
+  "deckIntake": "500 - 700",
+  "deckAges": "16 - 30",
+  "deckReach": "4,000+",
+  "deckEmail": "1,800+",
+  "glanceImage": "seed:settings-glanceImage-e791daa42ff1.jpg",
+  "presidentQuote": "The Faculty of Physical and Earth Sciences Students’ Association is driven by innovation, unity, and inclusivity. We are committed to promoting academic excellence, personal well-being, active sports participation, and meaningful relationships among our members.\n\nAs we begin this session, we hope every member finds the support, opportunities, and encouragement they need to achieve their goals and make the most of the academic year.\n\nCheers to a session of excellence, growth, and shared success!",
+  "announcement": "The 2026/2027 First Semester resumes Monday, 19 October 2026. Freshers' Orientation holds 12 December at Tayo Aderinokun Hall.",
+  "announcementLink": ""
+ },
+ "news": [
+  {
+   "id": "n1",
+   "title": "Freshers' Orientation 2026 holds on 12 December",
+   "date": "2026-10-19",
+   "category": "Announcement",
+   "cover": "seed:news-freshers-orientation-2026-holds-on--a521f07cd8ec.jpg",
+   "summary": "New students of the faculty will be welcomed at Tayo Aderinokun Hall on Saturday, 12 December 2026, alongside the Freshers' Party and the Freshers' Cup.",
+   "body": "The Freshers' Orientation for the 2026/2027 session holds on Saturday, 12 December 2026 at Tayo Aderinokun Hall, University of Lagos.\n\nOrientation is where new students meet the faculty, their departments and the PESSA executives. The Freshers' Party holds with the orientation, and the Freshers' Cup football tournament gives every department a team on the pitch.\n\nTime, speakers and the full programme will be posted here and on Instagram @pessaunilag.",
+   "link": ""
+  },
+  {
+   "id": "n2",
+   "title": "The Pharonia sets the vision for 2026/2027",
+   "date": "2026-10-18",
+   "category": "Announcement",
+   "cover": "seed:news-the-pharonia-sets-the-vision-for-20-9e690700bfb7.jpg",
+   "summary": "The second PESSA administration commits to a united and inclusive faculty that excels in academics, careers, sports and student life.",
+   "body": "Vision: A united and inclusive PESSA that excels academically, professionally, in sports and in student life, bridging the gap between the classroom and industry.\n\nMission: To build effective systems and programmes, from academic mentorship and industry networking to sports and social life, that drive excellence for every student, while ensuring fair representation and inclusion for all.\n\nUnity, inclusion and fair representation sit at the heart of every programme this session.",
+   "link": ""
+  },
+  {
+   "id": "n3",
+   "title": "Geosciences Center of Excellence",
+   "date": "2026-04-17",
+   "category": "Event Recap",
+   "cover": "seed:news-geosciences-center-of-excellence-841a39d5cedd.jpg",
+   "summary": "The much-anticipated building for Geosciences lecture and Research was officially commissioned",
+   "body": "The University of Lagos (UNILAG) is set to host the commissioning of the Geosciences Centre of Excellence situated at its Science Complex (formerly the Faculty of Science) on Friday, April 17, 2026.\n\nMore than just a new building, the Centre represents a significant step forward in the University’s commitment to strengthening teaching, research, and real-world impact in the geosciences.\n\nThe project is the result of a strong collaboration, funded by the Nigerian National Petroleum Company (NNPC), Shell Nigeria Exploration and Production Company Limited (SNEPCo), and the Nigeria Content Development and Monitoring Board (NCDMB). Together, these partners have contributed to a legacy that will support not only today’s students and researchers, but generations to come.\n\nThoughtfully designed as a modern, three suspended-floor facility, the Centre brings together a range of spaces tailored for both learning and discovery. From laboratories and workshops to lecture theatres, a museum, simulation laboratory, and library, every part of the building has been created to encourage curiosity, collaboration, and hands-on experience. Offices, sit-out areas, and other support facilities complete a space that is as functional as it is forward-looking.\n\nAt its heart, the Geosciences Centre of Excellence reflects a simple but powerful idea: learning should not stop at theory. By strengthening the connection between the classroom and industry, the Centre creates opportunities for students and researchers to engage with real challenges and develop practical solutions that matter.\n\nAs the University prepares to unveil this new facility, it marks yet another moment in UNILAG’s continuing journey to grow, evolve, and contribute meaningfully to national and global development through knowledge and innovation.",
+   "link": ""
+  },
+  {
+   "id": "n4",
+   "title": "Mathematics crowned overall champions of Dean's Games 2026",
+   "date": "2026-06-19",
+   "category": "Sports",
+   "cover": "seed:news-mathematics-crowned-overall-champio-f3c8f784a2dc.jpg",
+   "summary": "The Department of Mathematics topped the Emergence '26 medal table with 10 gold medals and 59 points, ahead of Physics and Chemistry.",
+   "body": "The Dean's Games 2026, themed Emergence '26, came to an end on 19 June with the release of the official medal table.\n\nMathematics finished top with 10 gold, 8 silver and 3 bronze (59 points). Physics placed second with 33 points, Chemistry third with 32, followed by Geosciences (30), Statistics (22) and Environmental Standards (8).\n\nCongratulations to every department. All athletes are advised to stay in competitive spirit ahead of the VC Games.",
+   "link": ""
+  }
+ ],
+ "spotlights": [],
+ "events": [
+  {
+   "id": "e1",
+   "title": "Freshers' Orientation & Freshers' Party",
+   "date": "2026-12-12",
+   "dateLabel": "",
+   "time": "",
+   "venue": "Tayo Aderinokun Hall",
+   "category": "Social",
+   "description": "The official welcome for new students of the faculty, followed by the Freshers' Party.",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e2",
+   "title": "Freshers' Cup",
+   "date": "",
+   "dateLabel": "Freshers' season, Dec 2026",
+   "time": "",
+   "venue": "",
+   "category": "Sports",
+   "description": "Football tournament for freshers, played across the departments during the orientation season.",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e3",
+   "title": "Triwave 2.0",
+   "date": "",
+   "dateLabel": "Mid-December 2026",
+   "time": "",
+   "venue": "",
+   "category": "Social",
+   "description": "The return of Triwave.",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e4",
+   "title": "Ball It Out",
+   "date": "",
+   "dateLabel": "6th week after resumption",
+   "time": "",
+   "venue": "",
+   "category": "Sports",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e5",
+   "title": "Karaoke Night",
+   "date": "",
+   "dateLabel": "Early second semester",
+   "time": "",
+   "venue": "",
+   "category": "Social",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e6",
+   "title": "Deans' Games 2027",
+   "date": "",
+   "dateLabel": "Mid second semester",
+   "time": "",
+   "venue": "",
+   "category": "Sports",
+   "description": "The faculty's inter-departmental games: football, basketball, volleyball, track events, marathon, swimming, table tennis, e-sports and indoor games.",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e7",
+   "title": "Health Week",
+   "date": "2027-04-07",
+   "dateLabel": "",
+   "time": "",
+   "venue": "",
+   "category": "Other",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e8",
+   "title": "Financial Literacy Seminar",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Academics",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e9",
+   "title": "PESSA Innovation Challenge (PIC 2.0)",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Academics",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e10",
+   "title": "Tech Bootcamp",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Academics",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e11",
+   "title": "Debate",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Academics",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e12",
+   "title": "Tutorials",
+   "date": "",
+   "dateLabel": "Through the session",
+   "time": "",
+   "venue": "",
+   "category": "Academics",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e13",
+   "title": "Final Year Workshop",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Academics",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e14",
+   "title": "HOD Games",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Sports",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e15",
+   "title": "Final Year Cup",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Sports",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e16",
+   "title": "Faculty Week",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Social",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e17",
+   "title": "Dinner & Awards Night",
+   "date": "",
+   "dateLabel": "Date to be announced",
+   "time": "",
+   "venue": "",
+   "category": "Social",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e18",
+   "title": "Fashion Runway Show",
+   "date": "",
+   "dateLabel": "Final Year Week",
+   "time": "",
+   "venue": "",
+   "category": "Other",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "e19",
+   "title": "Food Drive",
+   "date": "",
+   "dateLabel": "Before second semester exams",
+   "time": "",
+   "venue": "",
+   "category": "Other",
+   "description": "",
+   "poster": "",
+   "link": ""
+  },
+  {
+   "id": "h1",
+   "title": "Freshers' Orientation 2026: The Blueprint for Success",
+   "date": "2026-01-17",
+   "dateLabel": "",
+   "time": "",
+   "venue": "Tayo Aderinokun Hall",
+   "category": "Social",
+   "description": "The 2025/2026 session's orientation welcomed freshers with two days of programming: a sports day and online orientation on 16 January, then the physical orientation and after-party on 17 January.\n\nSessions with industry leaders, academic and professional briefings, interaction with executives and senior colleagues, the Freshers' Novelty Match, music, giveaways and refreshments.",
+   "poster": "seed:events-freshers-orientation-2026-the-blu-db8de48685ea.jpg",
+   "link": ""
+  },
+  {
+   "id": "h2",
+   "title": "PESSA Innovation Challenge 2026 (PIC 2026)",
+   "date": "2026-06-27",
+   "dateLabel": "",
+   "time": "",
+   "venue": "University of Lagos",
+   "category": "Academics",
+   "description": "The first-ever PESSA Innovation Challenge. Teams from all six departments picked a track, built a solution to a real Nigerian problem and pitched to industry judges on Demo Day, 27 June 2026, for a share of the ₦320,000 prize pool.",
+   "poster": "seed:events-pessa-innovation-challenge-2026-p-f83e8c981432.jpg",
+   "link": ""
+  },
+  {
+   "id": "h3",
+   "title": "Dean's Games 2026: Emergence '26",
+   "date": "2026-06-19",
+   "dateLabel": "",
+   "time": "",
+   "venue": "University of Lagos sports facilities",
+   "category": "Sports",
+   "description": "The faculty's inter-departmental games, 13 to 19 June 2026. Final medal table: Mathematics 59 points (10 gold), Physics 33, Chemistry 32, Geosciences 30, Statistics 22, Environmental Standards 8.\n\nThe Department of Mathematics were crowned overall champions and winners of the Dean's Cup.",
+   "poster": "seed:events-dean-s-games-2026-emergence-26-f3c8f784a2dc.jpg",
+   "link": ""
+  },
+  {
+   "id": "h4",
+   "title": "La Vanguardia: Dinner & Award Night",
+   "date": "2026-08-30",
+   "dateLabel": "",
+   "time": "Red carpet 5:00 PM, dinner 7:00 PM",
+   "venue": "",
+   "category": "Social",
+   "description": "Luminiscencia sin límites: the Vanguard administration's Dinner & Award Night. Full glam, awards for the session's standout students and departments, and the close of the 2025/2026 session.",
+   "poster": "seed:events-la-vanguardia-dinner-award-night-d8ea886e4fe5.jpg",
+   "link": ""
+  }
+ ],
+ "excos": [
+  {
+   "id": "x1",
+   "name": "Omojuola Dayo",
+   "position": "President",
+   "department": "",
+   "level": "",
+   "photo": "seed:excos-omojuola-dayo-f2fe760c3be0.jpg",
+   "instagram": "",
+   "bio": ""
+  },
+  {
+   "id": "x2",
+   "name": "Victor Irabor",
+   "position": "General Secretary",
+   "department": "",
+   "level": "",
+   "photo": "",
+   "instagram": "",
+   "bio": ""
+  },
+  {
+   "id": "x3",
+   "name": "Halimah Mogaji",
+   "position": "Sports Secretary",
+   "department": "",
+   "level": "",
+   "photo": "",
+   "instagram": "",
+   "bio": ""
+  }
+ ],
+ "departments": [
+  {
+   "id": "d1",
+   "name": "Chemistry",
+   "code": "CHM",
+   "type": "Department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  },
+  {
+   "id": "d2",
+   "name": "Mathematics",
+   "code": "MAT",
+   "type": "Department",
+   "about": "Mathematics, Industrial Mathematics and the mathematical sciences. The department won the Dean's Cup at Emergence '26 and is home to NAMSSN UNILAG, the departmental association.",
+   "hod": "Prof. H. Akewe",
+   "rep": "",
+   "photo": "",
+   "assoc": "NAMSSN UNILAG",
+   "site": "https://www.namssnunilag.one/",
+   "instagram": "namssn_unilag",
+   "email": ""
+  },
+  {
+   "id": "d3",
+   "name": "Physics",
+   "code": "PHY",
+   "type": "Department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  },
+  {
+   "id": "d4",
+   "name": "Statistics",
+   "code": "STA",
+   "type": "Department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  },
+  {
+   "id": "d5",
+   "name": "Geosciences",
+   "code": "GEO",
+   "type": "Department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  },
+  {
+   "id": "d6",
+   "name": "Environmental Standards",
+   "code": "ENV",
+   "type": "Department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  },
+  {
+   "id": "d7",
+   "name": "Biostatistics",
+   "code": "BST",
+   "type": "Sub-department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  },
+  {
+   "id": "d8",
+   "name": "Data Science",
+   "code": "DSC",
+   "type": "Sub-department",
+   "about": "",
+   "hod": "",
+   "rep": "",
+   "photo": "",
+   "assoc": "",
+   "site": "",
+   "instagram": "",
+   "email": ""
+  }
+ ],
+ "gallery": [
+  {
+   "id": "mvhyqwx021oo6",
+   "image": "seed:gallery-freshers-orientation-2026-holds--a521f07cd8ec.jpg",
+   "caption": "Freshers' Orientation 2026 holds on 12 December",
+   "event": "",
+   "date": "2026-10-21"
+  },
+  {
+   "id": "mvgx4hlt3y1rd",
+   "image": "seed:gallery-the-pharonia-sets-the-vision-for-9e690700bfb7.jpg",
+   "caption": "The Pharonia sets the vision for 2026/2027",
+   "event": "",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "mvgx36wuyf4bu",
+   "image": "seed:gallery-omojuola-dayo-f2fe760c3be0.jpg",
+   "caption": "Omojuola Dayo",
+   "event": "",
+   "date": "2026-10-20"
+  },
+  {
+   "id": "g1",
+   "image": "seed:gallery-students-and-faculty-at-the-facu-9eb97519adf9.jpg",
+   "caption": "Students and faculty at the Faculty of Science Annex",
+   "event": "Faculty gathering",
+   "date": ""
+  },
+  {
+   "id": "g2",
+   "image": "seed:gallery-a-lecture-session-in-the-faculty-ae1d2c21c09b.jpg",
+   "caption": "A lecture session in the faculty",
+   "event": "Academics",
+   "date": "2026-02-08"
+  },
+  {
+   "id": "g3",
+   "image": "seed:gallery-geosciences-centre-of-excellence-841a39d5cedd.jpg",
+   "caption": "Geosciences Centre of Excellence",
+   "event": "Campus",
+   "date": "2026-02-06"
+  },
+  {
+   "id": "g4",
+   "image": "seed:gallery-the-faculty-courtyard-c2e0aaa5da1e.jpg",
+   "caption": "The faculty courtyard",
+   "event": "Campus",
+   "date": "2026-02-05"
+  },
+  {
+   "id": "g5",
+   "image": "seed:gallery-faculty-block-e791daa42ff1.jpg",
+   "caption": "Faculty block",
+   "event": "Campus",
+   "date": "2026-02-04"
+  },
+  {
+   "id": "g6",
+   "image": "seed:gallery-faculty-of-physical-and-earth-sc-c39ac03076d5.jpg",
+   "caption": "Faculty of Physical and Earth Sciences",
+   "event": "Campus",
+   "date": "2026-02-03"
+  },
+  {
+   "id": "g7",
+   "image": "seed:gallery-the-vanguard-pessa-executives-20-284ff75d4f90.jpg",
+   "caption": "The Vanguard: PESSA executives 2025/2026",
+   "event": "Meet the Vanguard",
+   "date": "2026-01-20"
+  }
+ ],
+ "opportunities": [],
+ "resources": [],
+ "partners": [
+  {
+   "id": "p1",
+   "name": "Cenalytics",
+   "tier": "Programme Partner",
+   "logo": "",
+   "link": "",
+   "note": "School Data Tour"
+  }
+ ],
+ "alumni": [],
+ "faqs": [
+  {
+   "id": "q1",
+   "q": "Who is a member of PESSA?",
+   "a": "Every student of the Faculty of Physical and Earth Sciences, University of Lagos, across its six departments and two sub-departments."
+  },
+  {
+   "id": "q2",
+   "q": "How do I reach the executives?",
+   "a": "Call or WhatsApp the President or the General Secretary on the numbers on the Contact page, send an email to pessaunilag@gmail.com, or message @pessaunilag on Instagram."
+  },
+  {
+   "id": "q3",
+   "q": "How can an organisation partner with PESSA?",
+   "a": "Visit the Partner With Us page to see our programmes and reach the executives directly."
+  }
+ ],
+ "tiers": [
+  {
+   "id": "t1",
+   "name": "Platinum",
+   "price": "₦3,500,000",
+   "tag": "Headline partner of the session",
+   "featured": "Yes",
+   "benefits": "Headline Sponsor and Official Partner of PESSA 2026/2027\nFull-stage visibility with a 10 to 15 minute speaking slot\nFeatured digital content and collaboration posts across all platforms\nLogo on every event material, banner and backdrop\nExhibition stand at Freshers' Orientation and the Deans' Games\nCategory exclusivity for the session"
+  },
+  {
+   "id": "t2",
+   "name": "Gold",
+   "price": "₦2,000,000",
+   "tag": "Prominent partner",
+   "featured": "No",
+   "benefits": "Prominent logo placement on event banners, backdrops and digital media\nBooth or product display rights at the Deans' Games\nCollaboration post plus multiple mentions during campaigns\nOn-stage visibility with a 5 minute speaking slot"
+  },
+  {
+   "id": "t3",
+   "name": "Silver",
+   "price": "₦1,500,000",
+   "tag": "Visible partner",
+   "featured": "No",
+   "benefits": "Logo on selected promotional materials\nRecognition and mentions during major faculty events\nTable space for promotional materials at the Deans' Games\nDistribution of branded items or discount coupons"
+  },
+  {
+   "id": "t4",
+   "name": "Bronze",
+   "price": "₦800,000",
+   "tag": "Supporting partner",
+   "featured": "No",
+   "benefits": "Logo on event banners and digital posters\nMentions in event promotions\nProduct placement or giveaway opportunity during student gatherings"
+  }
+ ],
+ "pastExcos": [
+  {
+   "id": "v1",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Ogunwoolu Olalabi",
+   "position": "President",
+   "order": "1",
+   "department": "Statistics",
+   "photo": "seed:pastexcos-ogunwoolu-olalabi-ed5a3ebd5004.jpg",
+   "note": "Led PESSA's foundational session. Data analyst and Microsoft Certified Fabric Analytics Engineer."
+  },
+  {
+   "id": "v2",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Adegboyega Samuel",
+   "position": "Vice President",
+   "order": "2",
+   "department": "Mathematics",
+   "photo": "seed:pastexcos-adegboyega-samuel-201747341b2b.jpg",
+   "note": "First-class Industrial Mathematics student and IBM-certified data scientist; led academic welfare and tutoring."
+  },
+  {
+   "id": "v3",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Eludoyin Oluwaferanmi",
+   "position": "General Secretary",
+   "order": "3",
+   "department": "Geosciences",
+   "photo": "seed:pastexcos-eludoyin-oluwaferanmi-fa4f657b1129.jpg",
+   "note": "Anchor of administration; previously Assistant General Secretary of ULSSA."
+  },
+  {
+   "id": "v4",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Adebamiro Oluwanifemi",
+   "position": "Assistant General Secretary",
+   "order": "4",
+   "department": "",
+   "photo": "seed:pastexcos-adebamiro-oluwanifemi-a34a28e38649.jpg",
+   "note": "Kept the association's records and official correspondence."
+  },
+  {
+   "id": "v5",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Kazeem Jilaniyyah",
+   "position": "Public Relations Officer",
+   "order": "5",
+   "department": "",
+   "photo": "seed:pastexcos-kazeem-jilaniyyah-523897b9d436.jpg",
+   "note": "Ran PESSA's official channels and student engagement."
+  },
+  {
+   "id": "v6",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Adetutu Makinde",
+   "position": "Welfare Secretary",
+   "order": "6",
+   "department": "",
+   "photo": "seed:pastexcos-adetutu-makinde-558709c0c5f0.jpg",
+   "note": "Built the student support system for the first session."
+  },
+  {
+   "id": "v7",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Lasisi Samson",
+   "position": "Financial Secretary",
+   "order": "7",
+   "department": "Statistics",
+   "photo": "seed:pastexcos-lasisi-samson-7757ad2783fb.jpg",
+   "note": "Budgeting and accountability for the association's first session."
+  },
+  {
+   "id": "v8",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Precious",
+   "position": "Treasurer",
+   "order": "8",
+   "department": "",
+   "photo": "seed:pastexcos-precious-e6a0844bbd92.jpg",
+   "note": "Managed the association's funds with a culture of openness."
+  },
+  {
+   "id": "v9",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Tobiloba",
+   "position": "Social Secretary",
+   "order": "9",
+   "department": "",
+   "photo": "seed:pastexcos-tobiloba-5bc1a5ec02ff.jpg",
+   "note": "Owambe Day, Triwave and the La Vanguardia Dinner & Award Night."
+  },
+  {
+   "id": "v10",
+   "session": "2025/2026",
+   "admin": "The Vanguard",
+   "name": "Omojuola Dayo Timothy",
+   "position": "Sports Secretary",
+   "order": "10",
+   "department": "Mathematics",
+   "photo": "seed:pastexcos-omojuola-dayo-timothy-208558bf8898.jpg",
+   "note": "Ran the Dean's Games 2026 (Emergence '26). Now President of the Pharonia administration."
+  }
+ ],
+ "reps": [],
+ "announcements": [
+  {
+   "id": "a1",
+   "title": "2026/2027 First Semester resumption",
+   "date": "2026-10-19",
+   "category": "Notice",
+   "body": "The 2026/2027 First Semester resumes on Monday, 19 October 2026. Welcome back, PESSAites.\n\nFreshers' Orientation holds on Saturday, 12 December 2026 at Tayo Aderinokun Hall.",
+   "link": "",
+   "pinned": "Yes"
+  }
+ ],
+ "articles": [],
+ "patrons": [
+  {
+   "id": "pt1",
+   "name": "Prof. Olayinka Taiwo Asekun",
+   "role": "Dean, Faculty of Physical and Earth Sciences",
+   "group": "Faculty leadership",
+   "department": "",
+   "photo": "",
+   "note": ""
+  },
+  {
+   "id": "pt2",
+   "name": "Dr. Bhadmus",
+   "role": "Sub-Dean (Interim), Faculty of Physical and Earth Sciences",
+   "group": "Faculty leadership",
+   "department": "",
+   "photo": "",
+   "note": ""
+  },
+  {
+   "id": "pt3",
+   "name": "Prof. H. Akewe",
+   "role": "Head of Department",
+   "group": "Faculty leadership",
+   "department": "Mathematics",
+   "photo": "",
+   "note": ""
+  }
+ ],
+ "research": [],
+ "newsletters": [],
+ "merch": []
+}
