@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect, useState } from 'react'
 
-type Status = { empty: boolean; available: boolean; counts: Record<string, number> }
+type Status = { available: boolean; complete: boolean; steps: string[]; expected: Record<string, number>; counts: Record<string, number> }
 
 const card: React.CSSProperties = { border: '1px solid var(--theme-elevation-150)', background: 'var(--theme-elevation-0)', padding: '20px 22px', marginBottom: 24, borderRadius: 4 }
 const btn: React.CSSProperties = { display: 'inline-block', padding: '9px 14px', border: '1px solid var(--theme-elevation-800)', background: 'var(--theme-elevation-800)', color: 'var(--theme-elevation-0)', borderRadius: 4, cursor: 'pointer', textDecoration: 'none', fontSize: 13, fontWeight: 600, marginRight: 8, marginTop: 8 }
@@ -14,6 +14,26 @@ export const Welcome: React.FC = () => {
 
   const load = () => fetch('/api/starter-status', { credentials: 'include' }).then((r) => (r.ok ? r.json() : null)).then(setStatus).catch(() => null)
   useEffect(() => { load() }, [])
+
+  const runImport = async () => {
+    setBusy('import'); setMsg('')
+    const steps = status?.steps || []
+    const done: string[] = []
+    for (const step of steps) {
+      setMsg(`Importing ${step}... (${done.length + 1} of ${steps.length})`)
+      try {
+        const r = await fetch(`/api/import-starter?step=${step}`, { method: 'POST', credentials: 'include' })
+        const j = await r.json()
+        if (!r.ok) throw new Error(j.error || 'Failed')
+        done.push(...((j.log as string[]) || []))
+      } catch (e) {
+        setMsg(`Stopped at "${step}": ${(e as Error).message}. Click the import button again to resume.`)
+        setBusy(''); load(); return
+      }
+    }
+    setMsg(`Done. ${done.join(', ')}.`)
+    setBusy(''); load()
+  }
 
   const run = async (label: string, url: string) => {
     setBusy(label); setMsg('')
@@ -46,13 +66,13 @@ export const Welcome: React.FC = () => {
         <a style={ghost} href="/admin/collections/submissions">Inbox</a>
         <button style={ghost} disabled={busy !== ''} onClick={() => run('refresh', '/api/refresh-external')}>{busy === 'refresh' ? 'Fetching...' : 'Fetch departmental news now'}</button>
         <button style={ghost} disabled={busy !== ''} onClick={() => run('revalidate', '/api/revalidate')}>{busy === 'revalidate' ? 'Refreshing...' : 'Refresh the public site'}</button>
-        {status?.empty && status.available && (
-          <button style={btn} disabled={busy !== ''} onClick={() => run('import', '/api/import-starter')}>{busy === 'import' ? 'Importing, this takes about a minute...' : 'Import the current site content (one time)'}</button>
+        {status?.available && !status.complete && (
+          <button style={btn} disabled={busy !== ''} onClick={runImport}>{busy === 'import' ? 'Importing, please wait...' : 'Import the current site content'}</button>
         )}
       </div>
       {msg && <p style={{ marginTop: 12, fontSize: 13 }}>{msg}</p>}
-      {status?.empty && status.available && !msg && (
-        <p style={{ marginTop: 12, fontSize: 13, color: 'var(--theme-elevation-600)' }}>The site is empty. Click the import button once to bring in all the news, events, executives, departments, photos and settings from the previous PESSA site.</p>
+      {status?.available && !status.complete && !msg && (
+        <p style={{ marginTop: 12, fontSize: 13, color: 'var(--theme-elevation-600)' }}>Starter content is not fully imported yet. Click the import button to bring in the news, events, executives, departments, photos and settings from the previous PESSA site. It runs in steps and can be clicked again if it stops.</p>
       )}
     </div>
   )

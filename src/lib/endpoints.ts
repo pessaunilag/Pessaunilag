@@ -1,6 +1,6 @@
 import type { Endpoint, PayloadRequest } from 'payload'
 import { refreshAll } from './fetchExternal'
-import { importStarter, starterStatus } from './seed'
+import { importStarter, starterStatus, type Step } from './seed'
 import { revalidateSite } from '../collections/access'
 
 const json = (data: unknown, status = 200) => Response.json(data, { status })
@@ -43,16 +43,20 @@ export const adminEndpoints: Endpoint[] = [
     },
   },
   {
-    // One-time import of the content from the original PESSA site (only while the site is empty).
+    // Import of the content from the original PESSA site, one step per call.
+    // Safe to repeat: existing items are skipped.
     path: '/import-starter',
     method: 'post',
     handler: async (req) => {
       if (!req.user) return json({ error: 'Sign in first' }, 401)
-      const status = await starterStatus(req.payload)
-      if (!status.empty) return json({ error: 'The site already has content. Import skipped.' }, 409)
-      const result = await importStarter(req.payload)
-      revalidateSite()
-      return json({ ok: true, ...result })
+      const step = (req.searchParams.get('step') || 'settings') as Step
+      try {
+        const result = await importStarter(req.payload, step)
+        if (!result.next) revalidateSite()
+        return json({ ok: true, ...result })
+      } catch (e) {
+        return json({ error: (e as Error).message }, 500)
+      }
     },
   },
   {

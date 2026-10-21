@@ -12,7 +12,7 @@ import {
 } from '@payloadcms/next/routes'
 
 // Daily news fetch and the one-time import need more than the 10 s default on Vercel.
-export const maxDuration = 60
+export const maxDuration = 300
 
 export const GET = REST_GET(config)
 export const POST = REST_POST(config)
